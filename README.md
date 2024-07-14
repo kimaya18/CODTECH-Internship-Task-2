@@ -8,6 +8,12 @@ Mentor : Sravani Gouni
 ### OVERVIEW OF THE PROJECT
 
 **Project : SEO TOOL INTEGRATION WITH SEMRUSH**
+![Screenshot 2024-07-14 214749](https://github.com/user-attachments/assets/7d4208fe-8d03-4e73-be1c-e6060ee03ed5)
+![Screenshot 2024-07-14 214806](https://github.com/user-attachments/assets/a2cd4a1b-c189-4f5a-a94d-a411b1ce1ecd)
+![Screenshot 2024-07-14 215709](https://github.com/user-attachments/assets/b1fe23d2-f75d-4dd3-80e7-267f4c4453c9)
+![Screenshot 2024-07-14 215828](https://github.com/user-attachments/assets/cb49d123-f497-4652-b65c-c738426c8541)
+![Screenshot 2024-07-14 221534](https://github.com/user-attachments/assets/3db88eda-d060-41c0-8ac7-7a0f4ea439fb)
+
 
 
 **Project Description:**
